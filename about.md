@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-visual analyst
+Visual analyst
 
 ### More Information
 Previously Bristol -> Cambridge -> NUS, now @ THU
