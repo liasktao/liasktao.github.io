@@ -3,13 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+visual analyst
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Previously Bristol -> Cambridge -> NUS, now @ THU
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[li.huang@u.nus.edu](mailto:li.huang@u.nus.edu)
