@@ -23,8 +23,8 @@ The task-oriented taxonomy is shown below.
 Major research challenges, which may pave the way for further research opportunities, include
 ### Wide and easy adoption of machine learning techniques
 Leverage interactive visualization to
-1. achieve interactive model recommendation, which is to select the appropriate learning models for a given task and requirement
-2. systematically explore the multi-dimensional parameter space to greatly reduce the search space of model parameters
+* achieve interactive model recommendation, which is to select the appropriate learning models for a given task and requirement
+* systematically explore the multi-dimensional parameter space to greatly reduce the search space of model parameters
 ### Scalability
 Visualizing models with complex structures and large numbers of components is challenging, especially when the models handle tens of thousands of data items (for instance, ResNet-101 with a training dataset of millions of images). It is usually difficult to develop an appropriate visual summarization or abstraction to support model analysis and prediction understanding tasks. Accordingly, visualization researchers desire to design and develop scalable visualizations to simultaneously convey the model structure, prediction results, and the raw data, as well as to link them together, for a comprehensive analysis of the learning process and results.
 ### Explainability for data scientists and practitioners
