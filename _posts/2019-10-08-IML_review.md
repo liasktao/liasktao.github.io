@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (CHI2019) VizML, A Machine Learning Approach to Visualization Recommendation
+title: (JOV2019) Recent research advances on interactive machine learning
 ---
 
 ## Problem statment and background
