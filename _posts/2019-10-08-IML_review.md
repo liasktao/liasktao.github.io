@@ -15,17 +15,8 @@ Existing works on IML are reviewed from the visual analytics community, where in
 * IEEE PacificVis. 
 Titles and abstracts of the papers are exhaustively checked to find candidates. Then, full texts of uncertain candidates are browsed to finalize the selection. As a result, a total of 99 papers are selected for review.
 
+The task-oriented taxonomy is shown below.
 ![_config.yml]({{ site.baseurl }}/images/IML.PNG)
-
-Models used in evaluation
-* neural networks (primary)
-* naive Bayes
-* K-nearest neighbors
-* logistic regression
-* random forest
-For all models, the data is split into 60/20/20 train/validation/test sets and 5-fold cross-validation is used.
-
-Code and datasets used in the paper are available at: [https://github.com/mitmedialab/vizml](https://github.com/mitmedialab/vizml)
 
 ## Evaluation
 The neural network consistently outperforms the baseline models and model performance generally progresses as NB< KNN < LR ≈ RF < NN.
@@ -34,13 +25,12 @@ Benchmarking with crowdsourced effectiveness
 
 ![_config.yml]({{ site.baseurl }}/images/VizML2.png)
 
-## Discussion
-Limitations:
-* VizML is biased towards the Plotly dataset
-* Plotly and crowdsource users are not experts in data visualization
-* The paper was only focused on a subset of the tasks in a visualization recommendation pipeline
+This review focuses on tasks less covered by the existing surveys, including visual pattern mining, interactive anomaly detection, interactive information retrieval, and visual topic analysis.
 
-Future work:
-* a need for more diverse training data from other tools (e.g., Many Eyes and Tableau)
-* objective measures of visualization effectiveness
-
+## Research challenges and opportunities
+Major research challenges, which may pave the way for further research opportunities, include
+### Wide and easy adoption of machine learning techniques
+### Scalability
+### Explainability for data scientists and practitioners
+### Monitoring and debugging the online training/testing process of machine learning models
+### Improving data quality
