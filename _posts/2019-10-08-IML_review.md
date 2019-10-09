@@ -3,7 +3,6 @@ layout: post
 title: (JOV2019) Recent research advances on interactive machine learning
 ---
 
-## Problem statment and background
 Interactive machine learning (IML) is an iterative learning process that tightly couples a human with a machine learner, which is widely used by researchers and practitioners to effectively solve a wide variety of real-world application problems. Although recent years have witnessed the proliferation of IML in the field of visual analytics, most recent surveys either focus on a specific area of IML or aim to summarize a visualization field that is too generic for IML. In this paper, recent literatures on IML are systematically reviewed and classified into a task-oriented taxonomy.
 
 ## Methods
